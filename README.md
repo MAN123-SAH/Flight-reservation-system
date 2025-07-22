@@ -27,7 +27,7 @@ Libraries Used:
 <br>
 <iomanip> – formatted output
 <br>
-<thread> & <chrono> – for simulating loading effects
+<thread>  <chrono> – for simulating loading effects
 <br>
 <algorithm> – for booking/cancellation logic
 
